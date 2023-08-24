@@ -13,24 +13,6 @@
 #include "yaml-cpp/yaml.h"
 
 
-typedef struct
-{
-    std::string _url;
-}HttpInfo;
-
-typedef struct
-{
-    std::string _ip;
-    int _port;
-}UdpInfo;
-
-typedef struct
-{
-    std::string _ip;
-    int _port;
-}TcpInfo;
-
-
 enum class Type:char{HTTP, UDP, TCP};
 
 class AbstractCommunication

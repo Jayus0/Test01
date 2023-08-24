@@ -1,8 +1,8 @@
 #network.ymal
-netType: 0  #0-无连接  1-http  2-UDP  3-TCP
+netType: 2  #0-无连接  1-http  2-UDP  3-TCP
 
 HTTP:
-  url: "xxx"
+  url: "lllllllll"
 
 UDP:
   ip: "192.168.0.1"

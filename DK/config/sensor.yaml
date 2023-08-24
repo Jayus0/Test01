@@ -1,0 +1,24 @@
+#  动态压力传感器
+PressureSensor:
+  number: 1
+  describer: aaa
+
+#  转速/键相传感器
+SpeedSensor:
+  number: 2
+  describer: qqq
+
+#  震动加速度传感器
+VibrationAccelerationSensor:
+  number: 2
+  describer: lll
+
+#  振动速度传感器
+VibrationSpeedSensor:
+  number: 2
+  describer: qq
+
+#  电涡流位移传感器
+EddyCurrentDisplacementSensor:
+  number: 1
+  describer: ooo
