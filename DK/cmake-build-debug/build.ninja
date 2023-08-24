@@ -112,6 +112,41 @@ build CMakeFiles/DK.dir/src/RadarDataAcquisition.cpp.o: CXX_COMPILER__DK_Debug /
   OBJECT_DIR = CMakeFiles/DK.dir
   OBJECT_FILE_DIR = CMakeFiles/DK.dir/src
 
+build CMakeFiles/DK.dir/src/PressureSensor.cpp.o: CXX_COMPILER__DK_Debug /Users/sunt/sunt_ws/code/DK/src/PressureSensor.cpp || cmake_object_order_depends_target_DK
+  DEP_FILE = CMakeFiles/DK.dir/src/PressureSensor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++17
+  INCLUDES = -I/usr/local/include -I/Users/sunt/sunt_ws/code/DK/include
+  OBJECT_DIR = CMakeFiles/DK.dir
+  OBJECT_FILE_DIR = CMakeFiles/DK.dir/src
+
+build CMakeFiles/DK.dir/src/SpeedSensor.cpp.o: CXX_COMPILER__DK_Debug /Users/sunt/sunt_ws/code/DK/src/SpeedSensor.cpp || cmake_object_order_depends_target_DK
+  DEP_FILE = CMakeFiles/DK.dir/src/SpeedSensor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++17
+  INCLUDES = -I/usr/local/include -I/Users/sunt/sunt_ws/code/DK/include
+  OBJECT_DIR = CMakeFiles/DK.dir
+  OBJECT_FILE_DIR = CMakeFiles/DK.dir/src
+
+build CMakeFiles/DK.dir/src/VibrationAccelerationSensor.cpp.o: CXX_COMPILER__DK_Debug /Users/sunt/sunt_ws/code/DK/src/VibrationAccelerationSensor.cpp || cmake_object_order_depends_target_DK
+  DEP_FILE = CMakeFiles/DK.dir/src/VibrationAccelerationSensor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++17
+  INCLUDES = -I/usr/local/include -I/Users/sunt/sunt_ws/code/DK/include
+  OBJECT_DIR = CMakeFiles/DK.dir
+  OBJECT_FILE_DIR = CMakeFiles/DK.dir/src
+
+build CMakeFiles/DK.dir/src/VibrationSpeedSensor.cpp.o: CXX_COMPILER__DK_Debug /Users/sunt/sunt_ws/code/DK/src/VibrationSpeedSensor.cpp || cmake_object_order_depends_target_DK
+  DEP_FILE = CMakeFiles/DK.dir/src/VibrationSpeedSensor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++17
+  INCLUDES = -I/usr/local/include -I/Users/sunt/sunt_ws/code/DK/include
+  OBJECT_DIR = CMakeFiles/DK.dir
+  OBJECT_FILE_DIR = CMakeFiles/DK.dir/src
+
+build CMakeFiles/DK.dir/src/EddyCurrentDisplacementSensor.cpp.o: CXX_COMPILER__DK_Debug /Users/sunt/sunt_ws/code/DK/src/EddyCurrentDisplacementSensor.cpp || cmake_object_order_depends_target_DK
+  DEP_FILE = CMakeFiles/DK.dir/src/EddyCurrentDisplacementSensor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++17
+  INCLUDES = -I/usr/local/include -I/Users/sunt/sunt_ws/code/DK/include
+  OBJECT_DIR = CMakeFiles/DK.dir
+  OBJECT_FILE_DIR = CMakeFiles/DK.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DK
@@ -120,7 +155,7 @@ build CMakeFiles/DK.dir/src/RadarDataAcquisition.cpp.o: CXX_COMPILER__DK_Debug /
 #############################################
 # Link the executable ../DK
 
-build ../DK: CXX_EXECUTABLE_LINKER__DK_Debug CMakeFiles/DK.dir/src/main.cpp.o CMakeFiles/DK.dir/src/dk.cpp.o CMakeFiles/DK.dir/src/dklog.cpp.o CMakeFiles/DK.dir/src/communication.cpp.o CMakeFiles/DK.dir/src/HttpCommunication.cpp.o CMakeFiles/DK.dir/src/UDPCommunication.cpp.o CMakeFiles/DK.dir/src/TCPCommunication.cpp.o CMakeFiles/DK.dir/src/DataAcquisition.cpp.o CMakeFiles/DK.dir/src/RadarDataAcquisition.cpp.o | /usr/local/lib/libyaml-cpp.a
+build ../DK: CXX_EXECUTABLE_LINKER__DK_Debug CMakeFiles/DK.dir/src/main.cpp.o CMakeFiles/DK.dir/src/dk.cpp.o CMakeFiles/DK.dir/src/dklog.cpp.o CMakeFiles/DK.dir/src/communication.cpp.o CMakeFiles/DK.dir/src/HttpCommunication.cpp.o CMakeFiles/DK.dir/src/UDPCommunication.cpp.o CMakeFiles/DK.dir/src/TCPCommunication.cpp.o CMakeFiles/DK.dir/src/DataAcquisition.cpp.o CMakeFiles/DK.dir/src/RadarDataAcquisition.cpp.o CMakeFiles/DK.dir/src/PressureSensor.cpp.o CMakeFiles/DK.dir/src/SpeedSensor.cpp.o CMakeFiles/DK.dir/src/VibrationAccelerationSensor.cpp.o CMakeFiles/DK.dir/src/VibrationSpeedSensor.cpp.o CMakeFiles/DK.dir/src/EddyCurrentDisplacementSensor.cpp.o | /usr/local/lib/libyaml-cpp.a
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk
   LINK_LIBRARIES = /usr/local/lib/libyaml-cpp.a
   OBJECT_DIR = CMakeFiles/DK.dir
