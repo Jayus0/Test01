@@ -9,7 +9,6 @@
 
 namespace DK
 {
-
 }
 
 #endif //DK_DK_H
