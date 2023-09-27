@@ -1,24 +1,53 @@
 #  动态压力传感器
 PressureSensor:
-  number: 1
-  describer: aaa
+  -
+    id: 1
+    describer: "1-1"
+  -
+    id: 2
+    describer: "1-2"
 
-#  转速/键相传感器
-SpeedSensor:
-  number: 2
-  describer: qqq
+# 温度传感器
+TemperatureSensor:
+  -
+    id: 1
+    describer: "2-1"
+  -
+    id: 2
+    describer: "2-2"
+
+#  振动速度传感器
+VibrationVelocitySensor:
+  -
+    id: 1
+    describer: "3-1"
+  -
+    id: 2
+    describer: "4-1"
 
 #  震动加速度传感器
 VibrationAccelerationSensor:
-  number: 2
-  describer: lll
+  -
+    id: 2
+    describer: "4-1"
+  -
+    id: 3
+    describer: "4-2"
 
-#  振动速度传感器
-VibrationSpeedSensor:
-  number: 2
-  describer: qq
+#  位移传感器
+DisplacementSensor:
+  -
+    id: 1
+    describer: "5-1"
+  -
+    id: 2
+    describer: "5-2"
 
-#  电涡流位移传感器
-EddyCurrentDisplacementSensor:
-  number: 1
-  describer: ooo
+#   TDC相位传感器
+TDCPhaseSensor:
+  -
+    id: 1
+    describer: "6-1"
+  -
+    id: 2
+    describer: "6-2"

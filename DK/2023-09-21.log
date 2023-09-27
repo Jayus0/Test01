@@ -1,0 +1,96 @@
+[2023-09-21 08:46:51] Hello DK////
+[2023-09-21 08:46:51] pressureSensor - id: 1, pressureSensor: 1-1
+[2023-09-21 08:46:51] pressureSensor - id: 2, pressureSensor: 1-2
+[2023-09-21 08:46:51] temperatureSensor - id: 1, temperatureSensor: 2-1
+[2023-09-21 08:46:51] temperatureSensor - id: 2, temperatureSensor: 2-2
+[2023-09-21 09:11:12] Hello DK////
+[2023-09-21 09:11:12] pressureSensor - id: 1, describer: 1-1
+[2023-09-21 09:11:12] pressureSensor - id: 2, describer: 1-2
+[2023-09-21 09:11:12] temperatureSensor - id: 1, describer: 2-1
+[2023-09-21 09:11:12] temperatureSensor - id: 2, describer: 2-2
+[2023-09-21 09:11:12] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-21 09:11:12] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 09:11:12] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 09:11:12] VibrationVelocitySensor - id: 3, describer: 4-2
+[2023-09-21 09:11:12] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-21 09:11:12] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-21 09:11:12] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-21 09:11:12] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-21 09:35:48] Hello DK////
+[2023-09-21 09:35:48] pressureSensor - id: 1, describer: 1-1
+[2023-09-21 09:35:48] pressureSensor - id: 2, describer: 1-2
+[2023-09-21 09:35:48] temperatureSensor - id: 1, describer: 2-1
+[2023-09-21 09:35:48] temperatureSensor - id: 2, describer: 2-2
+[2023-09-21 09:35:48] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-21 09:35:48] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 09:35:48] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-21 09:35:48] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-21 09:35:48] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-21 09:35:48] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-21 09:35:48] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-21 09:35:48] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-21 09:43:35] Hello DK////
+[2023-09-21 09:43:35] pressureSensor - id: 1, describer: 1-1
+[2023-09-21 09:43:35] pressureSensor - id: 2, describer: 1-2
+[2023-09-21 09:43:35] temperatureSensor - id: 1, describer: 2-1
+[2023-09-21 09:43:35] temperatureSensor - id: 2, describer: 2-2
+[2023-09-21 09:43:35] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-21 09:43:35] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 09:43:35] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-21 09:43:35] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-21 09:43:35] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-21 09:43:35] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-21 09:43:35] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-21 09:43:35] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-21 11:28:34] Hello DK////
+[2023-09-21 11:28:34] pressureSensor - id: 1, describer: 1-1
+[2023-09-21 11:28:34] pressureSensor - id: 2, describer: 1-2
+[2023-09-21 11:28:34] temperatureSensor - id: 1, describer: 2-1
+[2023-09-21 11:28:34] temperatureSensor - id: 2, describer: 2-2
+[2023-09-21 11:28:34] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-21 11:28:34] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 11:28:34] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-21 11:28:34] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-21 11:28:34] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-21 11:28:34] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-21 11:28:34] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-21 11:28:34] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-21 15:21:14] Hello DK////
+[2023-09-21 15:21:14] pressureSensor - id: 1, describer: 1-1
+[2023-09-21 15:21:14] pressureSensor - id: 2, describer: 1-2
+[2023-09-21 15:21:14] temperatureSensor - id: 1, describer: 2-1
+[2023-09-21 15:21:14] temperatureSensor - id: 2, describer: 2-2
+[2023-09-21 15:21:14] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-21 15:21:14] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 15:21:14] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-21 15:21:14] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-21 15:21:14] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-21 15:21:14] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-21 15:21:14] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-21 15:21:14] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-21 16:10:38] Hello DK////
+[2023-09-21 16:10:38] pressureSensor - id: 1, describer: 1-1
+[2023-09-21 16:10:38] pressureSensor - id: 2, describer: 1-2
+[2023-09-21 16:10:38] temperatureSensor - id: 1, describer: 2-1
+[2023-09-21 16:10:38] temperatureSensor - id: 2, describer: 2-2
+[2023-09-21 16:10:38] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-21 16:10:38] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 16:10:38] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-21 16:10:38] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-21 16:10:38] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-21 16:10:38] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-21 16:10:38] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-21 16:10:38] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-21 16:32:49] Hello DK////
+[2023-09-21 16:32:49] pressureSensor - id: 1, describer: 1-1
+[2023-09-21 16:32:49] pressureSensor - id: 2, describer: 1-2
+[2023-09-21 16:32:49] temperatureSensor - id: 1, describer: 2-1
+[2023-09-21 16:32:49] temperatureSensor - id: 2, describer: 2-2
+[2023-09-21 16:32:49] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-21 16:32:49] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-21 16:32:49] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-21 16:32:49] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-21 16:32:49] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-21 16:32:49] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-21 16:32:49] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-21 16:32:49] TDCPhaseSensor - id: 2, describer: 6-2

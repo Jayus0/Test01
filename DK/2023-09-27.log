@@ -1,0 +1,28 @@
+[2023-09-27 11:06:44] Hello DK////
+[2023-09-27 11:06:44] pressureSensor - id: 1, describer: 1-1
+[2023-09-27 11:06:44] pressureSensor - id: 2, describer: 1-2
+[2023-09-27 11:06:44] temperatureSensor - id: 1, describer: 2-1
+[2023-09-27 11:06:44] temperatureSensor - id: 2, describer: 2-2
+[2023-09-27 11:06:44] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-27 11:06:44] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-27 11:06:44] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-27 11:06:44] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-27 11:06:44] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-27 11:06:44] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-27 11:06:44] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-27 11:06:44] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-27 11:06:44] TCP connect
+[2023-09-27 16:07:12] Hello DK////
+[2023-09-27 16:07:12] pressureSensor - id: 1, describer: 1-1
+[2023-09-27 16:07:12] pressureSensor - id: 2, describer: 1-2
+[2023-09-27 16:07:12] temperatureSensor - id: 1, describer: 2-1
+[2023-09-27 16:07:12] temperatureSensor - id: 2, describer: 2-2
+[2023-09-27 16:07:12] VibrationVelocitySensor - id: 1, describer: 3-1
+[2023-09-27 16:07:12] VibrationVelocitySensor - id: 2, describer: 4-1
+[2023-09-27 16:07:12] VibrationAccelerationSensor - id: 2, describer: 4-1
+[2023-09-27 16:07:12] VibrationAccelerationSensor - id: 3, describer: 4-2
+[2023-09-27 16:07:12] DisplacementSensor - id: 1, describer: 5-1
+[2023-09-27 16:07:12] DisplacementSensor - id: 2, describer: 5-2
+[2023-09-27 16:07:12] TDCPhaseSensor - id: 1, describer: 6-1
+[2023-09-27 16:07:12] TDCPhaseSensor - id: 2, describer: 6-2
+[2023-09-27 16:07:12] TCP connect.

@@ -13,14 +13,13 @@
 #include "yaml-cpp/yaml.h"
 
 
-enum class Type:char{HTTP, UDP, TCP};
-
 class AbstractCommunication
 {
 public:
     AbstractCommunication(){};
 
     virtual void sendData() = 0;
+    virtual void startListening() = 0;
 
     virtual  ~AbstractCommunication(){};
 };
@@ -28,11 +27,11 @@ public:
 class AbstractCommunicationFactory
 {
 public:
-    AbstractCommunicationFactory();
+    AbstractCommunicationFactory(){};
 
-    AbstractCommunication* createCommunication(Type type);
+    virtual AbstractCommunication* createCommunication() = 0;
 
-    ~AbstractCommunicationFactory();
+    virtual ~AbstractCommunicationFactory(){};
 };
 
 #endif //DK_COMMUNICATION_H

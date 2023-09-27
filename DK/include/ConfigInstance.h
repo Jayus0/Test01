@@ -40,37 +40,55 @@ typedef struct
  * */
 typedef struct
 {
-    int number;
+    int id;
+    double pressure;
     std::string describer;
 }PressureSensorStruct;
+
 typedef struct
 {
-    int number;
+    int id;
+    double temperature;
     std::string describer;
-}SpeedSensorStruct;
+}TemperatureSensorStruct;
+
 typedef struct
 {
-    int number;
+    int id;
+    double speed;
+    std::string describer;
+}VibrationVelocitySensorStruct;
+
+typedef struct
+{
+    int id;
+    double vibration;
     std::string describer;
 }VibrationAccelerationSensorStruct;
+
 typedef struct
 {
-    int number;
+    int id;
+    double displacement;
     std::string describer;
-}VibrationSpeedSensorStruct;
+}DisplacementSensorStruct;
+
 typedef struct
 {
-    int number;
+    int id;
+    double phase;
     std::string describer;
-}EddyCurrentDisplacementSensorStruct;
-typedef struct
-{
-    PressureSensorStruct _pressureSensorInfo;
-    SpeedSensorStruct _speedSensorInfo;
-    VibrationAccelerationSensorStruct _vibrationAccelerationSensorInfo;
-    VibrationSpeedSensorStruct _vibrationSpeedSensorInfo;
-    EddyCurrentDisplacementSensorStruct _eddyCurrentDisplacementSensorInfo;
-}SensorInfo;
+}TDCPhaseSensorStruct;
+
+//typedef struct
+//{
+//    PressureSensorStruct _pressureSensorInfo;
+//    TemperatureSensorStruct _temperatureSensorInfo;
+//    VibrationVelocitySensorStruct _vibrationVelocitySensor;
+//    VibrationAccelerationSensorStruct _vibrationAccelerationSensorInfo;
+//    DisplacementSensorStruct _displacementSensorInfo;
+//    TDCPhaseSensorStruct _tdcPhaseSensorInfo;
+//}SensorInfo;
 
 
 class ConfigInstance {
@@ -83,7 +101,7 @@ public:
     void loadConfigFile();
 
     NetInfo getNetInfo();
-    SensorInfo getSensorInfo();
+    //SensorInfo getSensorInfo();
 
 private:
     ConfigInstance() = default;
@@ -92,7 +110,13 @@ private:
     static ConfigInstance* instance;
 
     NetInfo m_netInfo;
-    SensorInfo m_sensorInfo;
+//    SensorInfo m_sensorInfo;
+    std::vector<PressureSensorStruct> pressureVec;
+    std::vector<TemperatureSensorStruct> temperatureVec;
+    std::vector<VibrationVelocitySensorStruct> velocityVec;
+    std::vector<VibrationAccelerationSensorStruct> accelerationVec;
+    std::vector<DisplacementSensorStruct> displacementVec;
+    std::vector<TDCPhaseSensorStruct> tdcVec;
 };
 
 

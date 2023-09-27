@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d021a140-c5a8-482e-996c-85bca00b0974" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../DK/DK" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/DK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/uUo.log" beforePathEscaped="$PROJECT_DIR$/../DK/cmake-build-debug/#1e#uUo#1#.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.cmake/api/v1/reply/cache-v2-860415b39fadb7be7dde.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-682ee7df4b6842ebf196.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-49c5892c5ccc2570da1e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-24T05-47-24-0535.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.cmake/api/v1/reply/target-DK-Debug-860210fb16b7d81c7367.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-0d8fd400457a0fcdd1fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/include/DataAcquisition.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/ConfigInstance.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/ConfigInstance.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/DataAcquisition.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/DataAcquisition.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/EddyCurrentDisplacementSensor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/EddyCurrentDisplacementSensor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/HttpCommunication.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/HttpCommunication.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/Pressure.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/PressureSensor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/PressureSensor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/RadarDataAcquisition.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/RadarDataAcquisition.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/SpeedSensor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/SpeedSensor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/TCPCommunication.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/TCPCommunication.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/UDPCommunication.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/UDPCommunication.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/VibrationAccelerationSensor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/VibrationAccelerationSensor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/VibrationSpeedSensor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/VibrationSpeedSensor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/communication.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/communication.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/dk.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/dk.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/dklog.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/dklog.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/DK.dir/src/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/config/sensor.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/config/sensor.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/include/ConfigInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/include/ConfigInstance.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/src/ConfigInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/src/ConfigInstance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DK/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../DK/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VecgyyYfjx6aZav3R9tmYsnP3J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "cmake.loaded.for.project": "true",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d021a140-c5a8-482e-996c-85bca00b0974" name="变更" comment="" />
+      <created>1695200102018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695200102018</updated>
+      <workItem from="1695200105239" duration="271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

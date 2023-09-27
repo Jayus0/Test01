@@ -43,11 +43,11 @@ std::string DKLogger::getCurrentTime(std::string &currentdata)
 {
     auto now = std::chrono::system_clock::now();
     std::time_t now_time = std::chrono::system_clock::to_time_t(now);
-    char buffer[80];
-    char buffer1[80];
-    strftime(buffer, sizeof(buffer), "%Y-%m-%d %H:%M:%S", std::localtime(&now_time));
-    strftime(buffer1, sizeof(buffer1), "%Y-%m-%d", std::localtime(&now_time));
-    currentdata = buffer1;
-    return buffer;
+    char timeBuffer[80];
+    char dataBuffer[80];
+    strftime(timeBuffer, sizeof(timeBuffer), "%Y-%m-%d %H:%M:%S", std::localtime(&now_time));
+    strftime(dataBuffer, sizeof(dataBuffer), "%Y-%m-%d", std::localtime(&now_time));
+    currentdata = dataBuffer;
+    return timeBuffer;
 }
 

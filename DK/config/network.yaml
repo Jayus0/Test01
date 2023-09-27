@@ -1,12 +1,12 @@
 #network.ymal
-netType: 2  #0-无连接  1-http  2-UDP  3-TCP
+netType: 3  #0-无连接  1-http  2-UDP  3-TCP
 
 HTTP:
   url: "lllllllll"
 
 UDP:
   ip: "192.168.0.1"
-  port: 5555
+  port: 6666
 
 TCP:
   ip: "192.168.0.2"
